@@ -12,10 +12,10 @@ A set of practices that aim to streamline and automate the process of deploying 
 
 ### **Benefits of MLOps:**
 1. **Faster time to market:** Accelerate the process of getting ML models into production skipping the manual process.
-2 **Improved model quality:** Ensure that models are reliable, consistent and perform as expected in real-world scenarios.
-3 **Enhanced collaboration:** Foster collaboration between data scientists, engineers, and other stakeholders involved in the ML lifecycle.
-4 **Reduced operational costs:** Streamline the management and maintenance of ML models by reducing cost and time.
-5 **Increased agility:** Enable organizations to respond quickly to changing business needs and market conditions.
+2. **Improved model quality:** Ensure that models are reliable, consistent and perform as expected in real-world scenarios.
+3. **Enhanced collaboration:** Foster collaboration between data scientists, engineers, and other stakeholders involved in the ML lifecycle.
+4. **Reduced operational costs:** Streamline the management and maintenance of ML models by reducing cost and time.
+5. **Increased agility:** Enable organizations to respond quickly to changing business needs and market conditions.
 
 ### **MLOps Tools & Frameworks:**
 
