@@ -19,8 +19,16 @@ A set of practices that aim to streamline and automate the process of deploying 
 
 ### **MLOps Tools & Frameworks:**
 
-1. **Kubeflow:** A platform for building and deploying ML workflows on Kubernetes.
-2. **MLflow:** A platform for managing the ML lifecycle, including experimentation, deployment, and model registry.
+1. **Kubeflow:** 
+A platform for building and deploying ML workflows on Kubernetes.
+
+**Kubeflow Central Dashboard**
+![Kubeflow Central Dashboard](https://github.com/iamkirankumaryadav/MLOps/blob/19b1fc0e35e6848bf1d946b1d9ccde289154da65/Image/Kubeflow%20Dashboard.png)
+
+**Kubeflow Pipelines**
+![Kubeflow Pipelines](https://github.com/iamkirankumaryadav/MLOps/blob/19b1fc0e35e6848bf1d946b1d9ccde289154da65/Image/Kubeflow%20Pipeline%20Runs.png)
+
+3. **MLflow:** A platform for managing the ML lifecycle, including experimentation, deployment, and model registry.
 3 **TensorFlow Extended (TFX):** A scalable, flexible, and extensible platform for building, deploying, and monitoring ML pipelines.
 4 **AWS SageMaker:** A fully managed platform by AWS for ML that provides tools for building, training, and deploying models.
 5 **Azure Machine Learning:** A cloud-based platform for building, training, and deploying ML models.
