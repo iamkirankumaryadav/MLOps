@@ -28,8 +28,8 @@ A set of practices that aim to streamline and automate the process of deploying 
 ![Kubeflow Pipelines](https://github.com/iamkirankumaryadav/MLOps/blob/19b1fc0e35e6848bf1d946b1d9ccde289154da65/Image/Kubeflow%20Pipeline%20Runs.png)
 
 2. **MLflow:** 
-- A platform for managing the ML lifecycle, including UI, evaluation, tracking, model registry, and deployment.
-- Training + Hyperparameter Tuning (Optimization) + Evaluation + UI Visualization + Tracking + Validation + Registry + Deployment.
+    - A platform for managing the ML lifecycle, including UI, evaluation, tracking, model registry, and deployment.
+    - Training + Hyperparameter Tuning (Optimization) + Evaluation + UI Visualization + Tracking + Validation + Registry + Deployment.
 
 3 **TensorFlow Extended (TFX):** A scalable, flexible, and extensible platform for building, deploying, and monitoring ML pipelines.
 
