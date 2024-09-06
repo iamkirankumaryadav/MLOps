@@ -17,9 +17,10 @@ A set of practices that aim to streamline and automate the process of deploying 
 4. **Reduced operational costs:** Streamline the management and maintenance of ML models by reducing cost and time.
 5. **Increased agility:** Enable organizations to respond quickly to changing business needs and market conditions.
 
-### **MLOps Tools & Frameworks:**
+## **MLOps Tools & Frameworks:**
 
-1. **Kubeflow:** A platform for building and deploying ML workflows on Kubernetes.
+### 1. **Kubeflow:** 
+- A platform for building and deploying ML workflows on Kubernetes.
 
 **Kubeflow Central Dashboard**
 ![Kubeflow Central Dashboard](https://github.com/iamkirankumaryadav/MLOps/blob/19b1fc0e35e6848bf1d946b1d9ccde289154da65/Image/Kubeflow%20Dashboard.png)
@@ -27,12 +28,15 @@ A set of practices that aim to streamline and automate the process of deploying 
 **Kubeflow Pipelines**
 ![Kubeflow Pipelines](https://github.com/iamkirankumaryadav/MLOps/blob/19b1fc0e35e6848bf1d946b1d9ccde289154da65/Image/Kubeflow%20Pipeline%20Runs.png)
 
-2. **MLflow:** 
-    - A platform for managing the ML lifecycle, including UI, evaluation, tracking, model registry, and deployment.
-    - Training + Hyperparameter Tuning (Optimization) + Evaluation + UI Visualization + Tracking + Validation + Registry + Deployment.
+### 2. **MLflow:** 
+- A platform for managing the ML lifecycle, including UI, evaluation, tracking, model registry, and deployment.
+- Training + Hyperparameter Tuning (Optimization) + Evaluation + UI Visualization + Tracking + Validation + Registry + Deployment.
 
-3 **TensorFlow Extended (TFX):** A scalable, flexible, and extensible platform for building, deploying, and monitoring ML pipelines.
+### 3. **TensorFlow Extended (TFX):** 
+- A scalable, flexible, and extensible platform for building, deploying, and monitoring ML pipelines.
 
-4 **AWS SageMaker:** A fully managed platform by AWS for ML that provides tools for building, training, and deploying models.
+### 4. **AWS SageMaker:** 
+- A fully managed platform by AWS for ML that provides tools for building, training, and deploying models.
 
-5 **Azure Machine Learning:** A cloud-based platform for building, training, and deploying ML models.
+### 5. **Azure Machine Learning:** 
+- A cloud-based platform for building, training, and deploying ML models.
