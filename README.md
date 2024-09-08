@@ -1,6 +1,7 @@
 # **MLOps (Machine Learning Operations)**
 
-A set of practices that aim to streamline and automate the process of deploying and managing ML models in production environments.
+- A set of practices that aim to streamline and automate the process of deploying and managing ML models in production environments.
+- **MLOps** is an ML engineering culture and practice that aims at unifying ML development (Dev) and ML Operations (Ops).
 
 ### **Key components of MLOps include:**
 
@@ -40,3 +41,28 @@ A set of practices that aim to streamline and automate the process of deploying 
 
 ### 5. **Azure Machine Learning:** 
 - A cloud-based platform for building, training, and deploying ML models.
+
+### **All the steps of the ML system**
+- ETL (Extraction, Transformation, Load)
+- Development
+- Training, Optimization, Hyperparameter, Fine Tuning, Retraining
+- Building, Promoting, Deployment
+- Monitoring
+- Sustenance
+- Automation
+- Integration
+- Testing
+- Releasing
+- Infrastructure Management
+
+### **MLOps Framework**
+
+**Job Orchestration**: Which steps need to be executed first? define the steps and workflow.
+
+- Data Ingestion (Collecting data from various sources)
+- Data Validation (Handling missing data, outliers, duplicates)
+- Data Transformation (Normalization, encoding, conversion, etc)
+- Model (Build, train, tune, retrain)
+- Model Analysis (Evaluation, validation)
+- Serving (Integrate with the required applications and services)
+- Logging (Metric, errors, workflow, etc)
