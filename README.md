@@ -46,13 +46,9 @@
 - ETL (Extraction, Transformation, Load)
 - Development
 - Training, Optimization, Hyperparameter, Fine Tuning, Retraining
-- Building, Promoting, Deployment
-- Monitoring
+- Testing, Building, Promoting, Deployment
+- Monitoring, Automation, Integration, Releasing
 - Sustenance
-- Automation
-- Integration
-- Testing
-- Releasing
 - Infrastructure Management
 
 ### **MLOps Framework**
