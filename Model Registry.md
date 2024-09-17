@@ -10,14 +10,14 @@
 
 2. **Metadata Management:** 
 A mechanism to capture and store essential metadata about each model, such as:
-a. Model name and version
-b. Training data
-c. Algorithms used
-d. Performance metrics
-e. Deployment environment
-f. Owner/contact information
+- Model name and version
+- Training data
+- Algorithms used
+- Performance metrics
+- Deployment environment
+- Owner/contact information
 
-3. **Version Control:** 
+4. **Version Control:** 
 - A system to track different versions of a model, allowing for easy comparison and rollback if necessary (GitHub, Gitlab, Bit Bucket, etc)
 
 4. **Model Lifecycle Management:** 
