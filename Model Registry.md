@@ -9,7 +9,7 @@
 - A secure and scalable storage system to house trained models and their associated artefacts (e.g., code, data, configurations).
 
 2. **Metadata Management:** 
-A mechanism to capture and store essential metadata about each model, such as:
+- A mechanism to capture and store essential metadata about each model, such as:
 - Model name and version
 - Training data
 - Algorithms used
