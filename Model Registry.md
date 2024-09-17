@@ -50,7 +50,8 @@
 
 4. **Model Monitoring:** 
 - The registry can be integrated with monitoring tools to track the model's performance in production.
-- If the model's performance degrades over time, the data scientists can investigate the issue and potentially retrain or replace the model.
+- If the model's performance degrades over time, the data scientists can investigate the issues.
+- Potentially retrain, replace, or enhance the existing model.
 
 5. **Model Retirement:** 
 - When a model is no longer needed or is replaced by a better-performing model, it can be retired from the registry.
