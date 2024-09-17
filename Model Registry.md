@@ -21,7 +21,7 @@
 - A system to track different versions of a model, allowing for easy comparison and rollback if necessary (GitHub, Gitlab, Bit Bucket, etc)
 
 4. **Model Lifecycle Management:** 
-Features to manage the entire lifecycle of a model, including:
+- Features to manage the entire lifecycle of a model, including:
 - Model creation
 - Training
 - Evaluation
