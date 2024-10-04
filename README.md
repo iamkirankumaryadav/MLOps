@@ -43,13 +43,14 @@
 - A cloud-based platform for building, training, and deploying ML models.
 
 ### **All the steps of the ML system**
-- ETL (Extraction, Transformation, Load)
-- Development
-- Training, Optimization, Hyperparameter, Fine Tuning, Retraining
-- Testing, Building, Promoting, Deployment
-- Monitoring, Automation, Integration, Releasing
-- Sustenance
-- Infrastructure Management
+- ETL (Extract (Structured, Semi Structured, Unstructured), Transform, Load)
+- Data Pipeline (Validate, Clean, Standardise, Curate)
+- Feature Engineering (Select Features, Extract Features)
+- Model Development (Code, Train, Validate, Evaluate, Optimize, Fine Tune, Retrain, Hyperparameter Tuning)
+- Model Deployment (Deploy, Containerise, Package)
+- Monitor, Automate, Integrate, Release
+- Serve (UI, API, Application for the users)
+- Sustenance and Infrastructure Management
 
 ### **MLOps Framework**
 
