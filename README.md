@@ -1,18 +1,18 @@
-# **MLOps (Machine Learning Operations)**
+# MLOps (Machine Learning Operations)
+- A set of practices that aim to streamline and automate the entire ML lifecycle, from development to deployment and maintenance.
 
-- A set of practices that aim to streamline and automate the process of deploying and managing ML models in production environments.
-- **MLOps** is an ML engineering culture and practice that aims at unifying ML development (Dev) and ML Operations (Ops).
-
-### **Key components of MLOps include:**
-
-1. **Data management:** Efficiently handling, cleaning, and preparing data for model training and deployment.
-2. **Model development:** Building and training ML models using various algorithms and techniques.
-3. **Model deployment:** Deploying trained models into production environments, making them accessible for real-time predictions.
-4. **Monitoring:** Continuously tracking model performance and identifying potential issues or degradation.
-5. **Automation:** Automating repetitive tasks like data ingestion, model training, and deployment to improve efficiency.
+### **All the steps of the ML system**
+- Data Management: Extract, transform, load, ingest (Data from multiple sources) 
+- Data Pipeline: Validate, clean, standardise, curate, etc.
+- Feature Engineering: Select, extract, and create new features.
+- Model Development: Code, train, validate, evaluate, optimize, fine-tune, retrain, hyperparameter tuning, etc.
+- Model Deployment: Deploy, containerise, package, code versioning (GitHub, Gitlab, Bit Bucket), CI/CD, etc.
+- Monitor, Automate, integrate, release, track, metrics, etc.
+- Serve: UI (streamlit), API, application for the users, etc
+- Sustenance and Infrastructure Management
 
 ### **Benefits of MLOps:**
-1. **Faster time to market:** Accelerate the process of getting ML models into production skipping the manual process.
+1. **Faster time to market:** Accelerate getting ML models into production skipping the manual process.
 2. **Improved model quality:** Ensure that models are reliable, consistent and perform as expected in real-world scenarios.
 3. **Enhanced collaboration:** Foster collaboration between data scientists, engineers, and other stakeholders involved in the ML lifecycle.
 4. **Reduced operational costs:** Streamline the management and maintenance of ML models by reducing cost and time.
@@ -41,16 +41,6 @@
 
 ### 5. **Azure Machine Learning:** 
 - A cloud-based platform for building, training, and deploying ML models.
-
-### **All the steps of the ML system**
-- ETL (Extract (Structured, Semi Structured, Unstructured), Transform, Load)
-- Data Pipeline (Validate, Clean, Standardise, Curate)
-- Feature Engineering (Select Features, Extract Features)
-- Model Development (Code, Train, Validate, Evaluate, Optimize, Fine Tune, Retrain, Hyperparameter Tuning)
-- Model Deployment (Deploy, Containerise, Package)
-- Monitor, Automate, Integrate, Release
-- Serve (UI, API, Application for the users)
-- Sustenance and Infrastructure Management
 
 ### **MLOps Framework**
 
