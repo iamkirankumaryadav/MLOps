@@ -1,6 +1,6 @@
 # AutoML
 
-- **AutoML** (Automated Machine Learning) is a set of techniques that automate the process of building machine learning models. 
+- **AutoML** (Automated ML) is a set of techniques that automate the process of building machine learning models. 
 - It aims to simplify the model development process with extensive machine learning expertise.
 
 ### How AutoML Works
