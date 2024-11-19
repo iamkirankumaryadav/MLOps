@@ -5,7 +5,7 @@
 - It aims to simplify the model development process with extensive ML expertise.
 - The goal of AutoML is to simplify the process of creating and deploying ML models with a simple interface.
 - By automating these tasks, AutoML makes it easier for non-experts to develop ML models.
-- It helps experts to spend more time on higher-level tasks, such as understanding the business problem and interpreting the results of the model.
+- We can spend more time on higher-level tasks, such as understanding the business problem and interpreting the results of the model.
 
 ### How AutoML Works?
 
