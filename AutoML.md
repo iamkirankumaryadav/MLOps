@@ -1,23 +1,31 @@
 # AutoML
 
-- **AutoML** (Automated ML) is the process of automating the end-to-end process of building machine learning models.
-- Including data preprocessing, feature engineering, model selection, and hyperparameter tuning.
-- It aims to simplify the model development process with extensive machine learning expertise.
+- **AutoML** (Automated ML) is the process of automating the end-to-end process of building ML models.
+- Data preprocessing, feature engineering, model selection, hyperparameter tuning, model training, evaluation, and deployment.
+- It aims to simplify the model development process with extensive ML expertise.
 - The goal of AutoML is to simplify the process of creating and deploying ML models with a simple interface.
+- By automating these tasks, AutoML makes it easier for non-experts to develop ML models.
+- Tt also allows experts to spend more time on higher-level tasks, such as understanding the business problem and interpreting the results of the model.
 
 ### How AutoML Works?
 
 1. **Data Preparation:** 
-- The AutoML system automatically handles tasks like data cleaning, feature engineering, and normalization to prepare the data for modelling.
+- The AutoML system automatically handles tasks like data preprocessing, data cleaning, transforming, normalizing, encoding, and normalization to prepare the data for modelling or model training.
 
-2. **Algorithm Selection:** 
+2. Feature Engineering
+- Creating new features from existing ones to improve model performance.
+
+3. **Model Selection:** 
 - AutoML explores a variety of ML algorithms and techniques to find the best-suited model for the given task.
 
-3. **Hyperparameter Tuning:** 
-- The system automatically optimizes hyperparameters, which are the settings that control the behaviour of the ML algorithm.
+4. **Hyperparameter Tuning:** 
+- The system automatically optimizes the hyperparameters, which are the settings that control the behaviour of the ML algorithm.
 
-4. **Model Evaluation:** 
-- AutoML evaluates the performance of different models using appropriate metrics to select the best-performing one.
+5. **Model Training and Evaluation:** 
+- AutoML trains and evaluates the performance of different models using appropriate metrics to select the best-performing one.
+
+6. **Model Deployment**
+- AutoML deploys the trained model to a production environment for making predictions on new data.
 
 ### Benefits of AutoML
 
